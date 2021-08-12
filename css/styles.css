@@ -701,6 +701,10 @@ a {
   align-items: center;
 }
 
+.nav__brand {
+  display: contents;
+}
+
 .nav__list {
   width: 100%;
   margin: 0;
