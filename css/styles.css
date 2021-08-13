@@ -835,10 +835,10 @@ a {
 
 .feature {
   gap: 4rem;
-  margin: 12rem;
+  margin: 12rem 0;
 }
 
-.feature__image {
+.feature .feature__image {
   width: 100%;
 }
 
